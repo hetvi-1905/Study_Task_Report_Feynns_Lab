@@ -1,4 +1,4 @@
 # Study_Task_Report_Feynns_Lab
-case study: Fast Food 
-Dataset: Mcdonald
-language used: Python 
+# Case study: Fast Food 
+# Dataset: Mcdonald
+# Language used: Python 
